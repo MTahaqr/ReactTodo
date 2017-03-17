@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: url(../public/bg.png);
+  opacity: 0.85;
+}
+.heading{
+  margin-left: 32%;
+  font-size: 50px;
+  color: orange;
+}

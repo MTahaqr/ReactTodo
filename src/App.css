@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+  color: red;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.form-control{
+  width: 90%;
+  margin: 0px auto;
+  text-align: center;
+}
+.btn-primary{
+  margin-top: -56px;
+margin-left: 93%;
+
+}
+.btn-warning{
+  display: inline;
+  margin-top: -50px;
+  margin-left: 86%;
+  margin-bottom: 1%;
+}
+.btn-danger{
+  margin-top: 1%;
+  margin-left: 46.5%;
+  
+
+}
+.no{
+  visibility: hidden;
+}
+.list-group-item{
+  width: 70%;
+  margin-left:  auto;
+  margin-right:  auto;
+  margin-top: 1%;
+  text-align: center;
+}
+
+li{
+  display: inline;
+}
